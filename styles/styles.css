@@ -1,0 +1,63 @@
+body{
+    background-color: aquamarine;
+}
+
+.header{
+    width: 300px;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content{
+    width: 800px;
+    height: auto;
+    margin: 10px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+.myTodoList{
+    padding: 15px;    
+}
+
+.strike{
+    text-decoration: line-through;
+}
+
+.input-field{
+    border: 1px solid grey;
+    border-radius: 2px;
+    height: 30px;
+    width: 500px;
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    padding: 3px;
+}
+
+.list-click:hover{
+    background-color: lemonchiffon;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.del-btn{
+    margin-left: 20px;
+    display: inline;
+    background-color: azure;
+    color: blue;
+    border: none;
+    border-radius: 2px;
+    
+}
